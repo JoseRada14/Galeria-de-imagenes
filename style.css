@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(./img/img1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+     display: flex;
+     flex-direction: column;
+     justify-content: flex-end;
+     align-items: center;
+     height: 100vh; 
+     transition: background-image 1s, color 1s;
+}
+div{
+    box-sizing: border-box;
+    width: 50%; 
+    display: flex;
+    gap: 5px;
+    justify-content: center;    
+    align-items: center;
+    margin: 1px;
+}
+button{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 50px;
+    width: 100px;
+}
+.img1{
+    background-image: url(./img/img1.jpg);
+}
+
+.img2{
+    background-image: url(./img/img2.jpg);
+}
+.img3{
+    background-image: url(./img/img3.jpg);
+}
+
+.img4{
+    background-image: url(./img/img4.jpg);
+}
+
+.img5{
+    background-image: url(./img/img5.jpg);
+}
+.img6{
+    background-image: url(./img/img6.jpg);
+}
+.img7{
+    background-image: url(./img/img7.jpg);
+}
+.img8{
+    background-image: url(./img/img8.jpg);
+}
+.img9{
+    background-image: url(./img/img9.jpg);
+}
+.img10{
+    background-image: url(./img/img10.jpg);
+}
+.img11{
+    background-image: url(./img/img11.jpg);
+}
+.img12{
+    background-image: url(./img/img12.jpg);
+}
+
+
